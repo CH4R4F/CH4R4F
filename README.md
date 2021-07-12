@@ -4,4 +4,4 @@
 you can find me here or on [twitter](https://twitter.com/CMarghin)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?CH4R4F=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiCH4R4F=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
