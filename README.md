@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-***I'm Charaf Marghin*** 10011 years old, a curious boy who wants to learn how things works behind the scenes. Passionate about web development especially _front-end_ and _web design_.
+***I'm Charaf Marghin*** 10100 years old, a curious boy who wants to learn how things works behind the scenes. Passionate about web development especially _front-end_ and _web design_.
 
 [music, anime, learningNewStuff] are 90% of my routine
 
