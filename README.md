@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
- - I'm a full stack developer and a javascript enthusiast from Morocco, I enjoy reading code, books(about code), and code.
+ - I'm a full stack developer and a javascript enthusiast from Morocco, I enjoy writing code, reading books(about code), watching firship's videos.
 
 ```javascript
 const { code, anime, movies, books, chess } = myLife;
