@@ -36,6 +36,8 @@ const { code, anime, movies, books, chess } = myLife;
  
  - I only want to use my code for good, and being able to contribute to open source projects is what drives my learning motivation.
  
+ <img src="./tiiiitch.jpg" alt="A quote from one piece" />
+ 
 ---
 
 ### :fire: My Stats :
