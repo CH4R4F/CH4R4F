@@ -25,7 +25,7 @@
 ---
 
 ### :man_technologist: About Me :
- - I'm a full stack developer and a javascript enthusiast from Morocco, I enjoy writing code, reading books(about code), watching firship's videos.
+ - I'm a full stack developer and javascript enthusiast, I enjoy writing code, reading books, and watching @fireship's videos XD.
 
 ```javascript
 const { code, anime, movies, books, chess } = myLife;
@@ -34,7 +34,7 @@ const { code, anime, movies, books, chess } = myLife;
 
  - 🚧 currently I'm focusing on learning some interesting stuff like *React* - *NodeJs* - *GraphQL* ...
  
- - I only want to use my code for good, and being able to contribute to open source projects is what drives my learning motivation.
+ - I love building ideas that can help me and people make life easier.
  
  <img src="./tiiiitch.jpg" alt="A quote from one piece" />
  
@@ -42,5 +42,5 @@ const { code, anime, movies, books, chess } = myLife;
 
 ### :fire: My Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CH4R4F&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CH4R4F&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CH4R4F&theme=dark&background=000000)](https://git.io/streak-stats)
