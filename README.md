@@ -32,7 +32,7 @@ const { code, anime, movies, books, chess } = myLife;
 ````
  - I'm also a student at [YouCode](http://www.youcode.ma) right now .. I spend time there
 
- - 🚧 currently I'm focusing on learning some interesting stuff like *React* - *NodeJs* - *GraphQL* ...
+ - 🚧 currently I'm focusing on learning some interesting stuff like *NextJs* - *Express* - *MongoDB* - *GraphQL* ...
  
  - I love building ideas that can help me and people make life easier.
  
@@ -40,7 +40,3 @@ const { code, anime, movies, books, chess } = myLife;
  
 ---
 
-### :fire: My Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CH4R4F&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CH4R4F&theme=dark&background=000000)](https://git.io/streak-stats)
