@@ -32,7 +32,7 @@ const { code, anime, movies, books, chess } = myLife;
 ````
  - I'm also a student at [YouCode](http://www.youcode.ma) right now .. I spend time there
 
- - 🚧 currently I'm focusing on learning some interesting stuff like *NextJs* - *Express* - *MongoDB* - *GraphQL* ...
+ - 🚧 currently I'm focusing on mobile development technologies such us _React Native_, _FLutter_
  
  - I love building ideas that can help me and people make life easier.
  
