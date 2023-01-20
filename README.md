@@ -25,7 +25,20 @@
 ---
 
 ### :man_technologist: About Me :
- - I'm a full stack developer and javascript enthusiast, I enjoy writing code, reading books, and watching @fireship's videos XD.
+ - Self-taught Full Stack Developer with
+experience in web and mobile
+development. Strong knowledge of
+JavaScript
+and
+open-source
+software. Continuously seeking to
+improve
+programming
+skills,
+problem-solving
+abilities,
+and
+knowledge of new technologies
 
 ```javascript
 const { code, anime, movies, books, chess } = myLife;
