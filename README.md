@@ -30,24 +30,18 @@ experience in web and mobile
 development. Strong knowledge of
 JavaScript
 and
-open-source
-software. Continuously seeking to
+other open-source technologies. Continuously seeking to
 improve
 programming
 skills,
 problem-solving
 abilities,
 and
-knowledge of new technologies
+contribution to the open source community
 
 ```javascript
-const { code, anime, movies, books, chess } = myLife;
+const { code, anime, movies, books, chess } = CMarghin;
 ````
- - I'm also a student at [YouCode](http://www.youcode.ma) right now .. I spend time there
-
- - 🚧 currently I'm focusing on mobile development technologies such us _React Native_, _FLutter_
- 
- - I love building ideas that can help me and people make life easier.
  
  <img src="./tiiiitch.jpg" alt="A quote from one piece" />
  
